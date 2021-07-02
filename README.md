@@ -1,6 +1,5 @@
 # sysbench_additional_item
 
-# sysbench에 추가한 사항입니다.
 
 #!/bin/bash
 
