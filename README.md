@@ -6,10 +6,15 @@
 export LANG=c
 
 COR="Linux_Check"
+
 RO=" /tmp"
+
 NOW=`/bin/date +%Y%m%d_%H_%M_%S`
+
 HOST=`/bin/hostname`
+
 today=`/bin/date +%Y%m%d`
+
 DAY=`/bin/date +%d`
 
 echo "                                                                    " >> $RO/system.log
